@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Dhiren Patel - [@Dhiren507](https://github.com/Dhiren507)
+Dhiren Dantani- [@Dhiren507](https://github.com/Dhiren507)
 
 Project Link: [https://github.com/Dhiren507/skillsync](https://github.com/Dhiren507/skillsync)
 
